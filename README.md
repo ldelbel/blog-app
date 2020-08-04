@@ -68,5 +68,5 @@ Give a ⭐️ if you like this project!
 
 ## :clap: Acknowledgements
 
-[BetterSpecs for RSpec good practices](http://www.betterspecs.org/br/#contexts)<br>
-[RSpec Documentation Repo](https://github.com/rspec/rspec)
+[reference]()<br>
+
