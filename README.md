@@ -1,4 +1,4 @@
-# Ruby Capstone Project - Ruby Linter
+# Blog App - Ruby on Rails
 
 [![View Code]()]()
 [![Github Issues]()]()
